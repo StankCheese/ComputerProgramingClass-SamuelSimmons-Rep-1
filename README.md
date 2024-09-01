@@ -1,2 +1,2 @@
-# ComputerProgramingClass-SamuelSimmons-Rep-1
+# ComputerProgramingClass1302-SamuelSimmons-Rep-1
 Hello
